@@ -3,14 +3,14 @@
 A fully functional Spotify clone built with React, Node.js, Express.js and MongoDB. This project aims to replicate the core functionalities of Spotify, allowing users to browse albums, play songs, and manage playback. 
 It includes functionalities for creating, browsing, and removing albums, as well as uploading, viewing, and deleting songs.
 
-## Features
+##✨ Features
 
 - **Album Management**: Create, list, and delete albums.
 - **Song Management**: Upload, list, and delete songs.
 - **Play Music**: Users can play, pause, and skip tracks.
 - **Responsive Design**: Mobile-friendly design for better accessibility.
 
-## Technologies Used
+##🛠️ Technologies Used
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express.js
@@ -20,7 +20,7 @@ It includes functionalities for creating, browsing, and removing albums, as well
 - **State Management**: Context API
 - **Other Libraries**: Axios, React Router, React Toastify
 
-## Installation
+##🚀 Installation
 
 1. Clone the repository:
     ```bash
@@ -57,13 +57,13 @@ It includes functionalities for creating, browsing, and removing albums, as well
     npm run dev
     ```
 
-## Usage
+##🎧 Usage
 
 1. Open your browser and navigate to `http://localhost:5173`.
 2. Create new albums and songs on the Spotify Admin page.
 3. Browse albums and songs, create playlists, and enjoy music.
 
-## Screenshot
+##📷 Screenshot
 
 ### Admin Add Song Page
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/a7cf35d5-f7d8-45d9-a3e4-d3c035c10d29" />
